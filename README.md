@@ -1,7 +1,4 @@
 # Hello! 👋🏻
 I'm Lina Meander.
-Enrolled at Mid Sweden University studying web development. 
+I'm a web developer with an education from Mid Sweden University.
 Based in Switzerland.
-## Currently learning 👩🏻‍💻
-Mid Sweden University
-- Individual Assignment
